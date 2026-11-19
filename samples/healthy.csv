@@ -1,0 +1,4 @@
+index, name, driver_version, temperature.gpu, memory.used [MiB], memory.total [MiB], utilization.gpu [%]
+0, NVIDIA A100-SXM4-80GB, 535.104.05, 34, 1024 MiB, 81920 MiB, 0 %
+1, NVIDIA A100-SXM4-80GB, 535.104.05, 36, 980 MiB, 81920 MiB, 0 %
+	
